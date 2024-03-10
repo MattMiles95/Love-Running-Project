@@ -96,7 +96,7 @@ footer {
 }
 
 #footer-links {
-    font-size: 200%;
+    font-size: 150%;
     list-style-type: none;
     display: flex;
     justify-content: space-around;
